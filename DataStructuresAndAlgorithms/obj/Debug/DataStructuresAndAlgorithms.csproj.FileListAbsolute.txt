@@ -1,0 +1,21 @@
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe.config
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.pdb
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csprojResolveAssemblyReference.cache
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.exe
+C:/Users/Danphe/source/repos/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.pdb
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe.config
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.pdb
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csprojAssemblyReference.cache
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.exe
+E:/SHIV PRASAD DATA/shivprasad data/Algorithms/Source Code/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.pdb
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe.config
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.exe
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/bin/Debug/DataStructuresAndAlgorithms.pdb
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csproj.AssemblyReference.cache
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.exe
+/Users/kayjay/Projects/Data Structure/DataStructuresAndAlgorithms/DataStructuresAndAlgorithms/obj/Debug/DataStructuresAndAlgorithms.pdb
