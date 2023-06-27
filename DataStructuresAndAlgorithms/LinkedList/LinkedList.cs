@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataStructuresAndAlgorithms.LinkedList
 {
-    
+
     // This class will have the logic
     // to connect the node objects to create
     // link list structure
